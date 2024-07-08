@@ -1,0 +1,69 @@
+.card{
+  width: 550px;
+  height: 350px;
+  background-color: #fff;
+  box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px;
+  /* border-right: 30px solid #4286F5; */
+  padding: 30px;
+  border-radius: 5px;
+  border: 10px solid violet;
+justify-content: center;
+
+}
+.img{
+    padding-left: 20px;
+    text-align: center;
+    border-radius: 0px;
+    float: right;
+    width: 50%;
+}
+
+.pass{
+    margin-bottom: 20px;
+  }
+  .email{
+    margin-bottom: 20px;
+  }
+  .card button{
+  background-color: #61054f;
+  color:#fff;
+  width: 100%;
+  height: 30px;
+  border: none;
+  border-radius :3px;
+  text-transform: uppercase;
+  font-size: 11px;
+}
+
+.user label{
+  font-size: 10px;
+  text-transform: uppercase;
+  color:#A1A1A1;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
+}
+.pass label{
+    font-size: 10px;
+    text-transform: uppercase;
+    color:#A1A1A1;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+  }
+.pass input{
+  width: 100%;
+  height: 35px;
+  border: none;
+  outline: none;
+  background: #E5E5E5;
+  font-size: 16px;
+  padding: 10px;
+}
+.email input{
+    width: 100%;
+    height: 35px;
+    border: none;
+    outline: none;
+    background: #E5E5E5;
+    font-size: 16px;
+    padding: 10px;
+  }
